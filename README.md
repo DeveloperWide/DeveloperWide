@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**DeveloperWide/DeveloperWide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Mahesh](https://codebymahesh.vercel.app/), a full-stack MERN developer focused on building scalable web applications with clean architecture and strong fundamentals.
 
-Here are some ideas to get you started:
+### Currently working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React, TypeScript, Node.js, Express, MongoDB
+* DSA in Java
+
+### Projects
+
+- FocusHub – Full-stack productivity app built with MERN
+- YouTube Clone (MERN + TS) – Scalable video platform with auth and uploads
+- Ninja Sketch – Excalidraw-style drawing app with React and TypeScript
+
+### Interests
+
+- Backend architecture
+- Problem solving
+- Building real-world products
+- Teaching what I learn
