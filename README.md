@@ -9,9 +9,9 @@ I'm [Mahesh](https://codebymahesh.vercel.app/), a full-stack MERN developer focu
 
 ### Projects
 
-- FocusHub – Full-stack productivity app built with MERN
-- YouTube Clone (MERN + TS) – Scalable video platform with auth and uploads
-- Ninja Sketch – Excalidraw-style drawing app with React and TypeScript
+- ***_FocusHub_*** – Full-stack productivity app built with MERN
+- ***_YouTube Clone (MERN + TS)_*** – Scalable video platform with auth and uploads
+- ***_Ninja Sketch_*** – Excalidraw-style drawing app with React and TypeScript
 
 ### Interests
 
